@@ -11,5 +11,9 @@ Hello there, my name is damt and welcome to my github page!
 <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white"/> 
 
 ### Statistics
+<details>
+  <summary>:zap: Click to show</summary>
+   <img align="Left" alt="therealdamt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=therealdamt&show_icons=true&hide_border=true&theme=dark" />
+</details>
+
 <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealdamt&layout=compact&hide_border=true&theme=dark" /><br>
-<img align="Left" alt="RithDev Github Stats" src="https://github-readme-stats.vercel.app/api?username=therealdamt&show_icons=true&hide_border=true&theme=dark" />
