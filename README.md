@@ -1,4 +1,4 @@
-## damt
+## 🐶 damt
 Hello there, my name is damt and welcome to my github page 👋!
 
 ### Contact Me At
