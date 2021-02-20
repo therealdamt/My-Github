@@ -1,5 +1,5 @@
 ## damt
-Hello there, my name is damt and welcome to my github page!
+Hello there, my name is damt and welcome to my github page 👋!
 
 ### Contact Me At
 <a href="https://t.me/therealdamt">Telegram</a>
