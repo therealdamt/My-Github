@@ -1,8 +1,5 @@
 ## 🐶 damt
-Hello there, my name is damt and welcome to my github page 👋!
-
-### Currently Listening To
-[<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="Liam's Spotify Playing" width="350" />](https://open.spotify.com/user/5zazs2gfx3uuujlh05ycq1zxp?si=7c1f537f24394c81)
+Hello there, my name is damt and welcome to my github page 👋
 
 ### Contact Me At
 <a href="https://t.me/therealdamt">Telegram</a>
