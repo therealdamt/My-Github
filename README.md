@@ -10,6 +10,8 @@ Hello there, my name is damt and welcome to my github page 👋
 #### Languages I know 
 <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white"/> 
 
+***
+
 ![GitHub metrics](https://metrics.lecoq.io/therealdamt?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York)
 
 ### Statistics
