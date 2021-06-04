@@ -1,6 +1,8 @@
 ## 🐶 damt
 Hello there, my name is damt and welcome to my github page 👋
 
+[GitHub metrics](https://metrics.lecoq.io/therealdamt?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York)
+
 ### Contact Me At
 <a href="https://t.me/therealdamt">Telegram</a>
 
